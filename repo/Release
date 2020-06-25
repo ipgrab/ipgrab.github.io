@@ -1,0 +1,12 @@
+Origin: ipgrab
+Label: ipgrab
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: ipgrab
+
+SHA256:
+ a1de6cf619f2f34328ed5e6fa08901d2ff0256297af8a57aa8d74ea5e9d4fe5e 729 Packages.bz2
+ 27efc2221abf8155323024af43a06d85e181c8ba7259abc1658df54869b691b3 696 Packages.xz
