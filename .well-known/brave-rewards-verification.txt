@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ipgrab.github.io
+Token: 686e70293440b7bb89cea5435a2163c45c291a90eaf5efb426f33cd87cff526d
